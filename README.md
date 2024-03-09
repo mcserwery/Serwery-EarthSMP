@@ -1,7 +1,7 @@
 
 # McSerwery.pl
 Serwery Minecraft EarthSMP - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-09 11:52
+Ostatnia aktualizacja 2024-03-09 11:55
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴋʏʙʟᴏᴄᴋ 1.20 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 1244/2000 | 108 |
