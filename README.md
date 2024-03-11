@@ -1,14 +1,14 @@
 
 # McSerwery.pl
 Serwery Minecraft EarthSMP - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-11 03:55
+Ostatnia aktualizacja 2024-03-11 04:55
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴋʏʙʟᴏᴄᴋ 1.20 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 314/2000 | 110 |
-| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Survival: NOWA EDYCJA  RealLife: NOWE MAGAZYNY | 175/179 | 0 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴋʏʙʟᴏᴄᴋ 1.20 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 308/2000 | 110 |
+| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Survival: NOWA EDYCJA  RealLife: NOWE MAGAZYNY | 119/123 | 0 |
 | 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • DC.LOOFCRAFT.PL NIEDZIELA: 18.00-20.00 WOJNY!  20:30 KLUCZE ALL! | 2/2000 | 0 |
-| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴡʟᴇᴄɪᴀʟᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴀ ᴄʜᴇsᴛᴘᴠᴘ! sᴘʀᴀᴡᴅᴢ sᴀᴍ | 179/180 | 0 |
-| 5 | 	[coincraft.pl](https://mcserwery.pl/serwery/minecraft/85/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 7/1000 | 0 |
+| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴡʟᴇᴄɪᴀʟᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴀ ᴄʜᴇsᴛᴘᴠᴘ! sᴘʀᴀᴡᴅᴢ sᴀᴍ | 175/176 | 0 |
+| 5 | 	[coincraft.pl](https://mcserwery.pl/serwery/minecraft/85/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 5/1000 | 0 |
 | 6 | 	[CoinCraft.pl](https://mcserwery.pl/serwery/minecraft/114/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 5/1000 | 0 |
 | 7 | 	[mc.tems.pl](https://mcserwery.pl/serwery/minecraft/149/) | ° ∙ ⋆ ∴ MC.TEMS.PL ⚠0⚠ EarthSMP ∴ ⋆ ∙ ° ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴇᴀʀᴛʜsᴍᴘ ∙ WYSTARTOWAŁA | 3/9999 | 0 |
 | 8 | 	[cywilizacjamc.pl](https://mcserwery.pl/serwery/minecraft/235/) | MineCube ● Twoje Imperium Gier  ● ᴛᴀᴋɪᴇɢᴏ ᴇᴀʀᴛʜsᴍᴘ ᴡ ᴘᴏʟsᴄᴇ ɴɪᴇ ʙʏʟᴏ ● | 3/1000 | 0 |
