@@ -1,13 +1,13 @@
 
 # McSerwery.pl
 Serwery Minecraft EarthSMP - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-13 02:55
+Ostatnia aktualizacja 2024-03-13 03:55
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴋʏʙʟᴏᴄᴋ 1.20 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 297/2000 | 112 |
-| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × Nowa edycja ChestPvP w piątek o 18:00! | 206/210 | 0 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴋʏʙʟᴏᴄᴋ 1.20 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 248/2000 | 112 |
+| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × Nowa edycja ChestPvP w piątek o 18:00! | 196/200 | 0 |
 | 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • dc.loofcraft.pl ‣ Edycja trwa w najlepsze mordzia! → WBIJAJ! | 2/2000 | 0 |
-| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴡʟᴇᴄɪᴀʟᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴀ ᴄʜᴇsᴛᴘᴠᴘ! sᴘʀᴀᴡᴅᴢ sᴀᴍ | 177/178 | 0 |
+| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴡʟᴇᴄɪᴀʟᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴀ ᴄʜᴇsᴛᴘᴠᴘ! sᴘʀᴀᴡᴅᴢ sᴀᴍ | 167/168 | 0 |
 | 5 | 	[coincraft.pl](https://mcserwery.pl/serwery/minecraft/85/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 6/1000 | 0 |
 | 6 | 	[CoinCraft.pl](https://mcserwery.pl/serwery/minecraft/114/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 6/1000 | 0 |
 | 7 | 	[mc.tems.pl](https://mcserwery.pl/serwery/minecraft/149/) | ° ∙ ⋆ ∴ MC.TEMS.PL ⚠0⚠ EarthSMP ∴ ⋆ ∙ ° ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴇᴀʀᴛʜsᴍᴘ ∙ WYSTARTOWAŁA | 1/9999 | 0 |
