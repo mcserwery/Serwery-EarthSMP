@@ -1,13 +1,13 @@
 
 # McSerwery.pl
 Serwery Minecraft EarthSMP - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-15 04:55
+Ostatnia aktualizacja 2024-03-15 05:55
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SV+GILDIE start PIĄTEK 18:00! | 249/2000 | 113 |
-| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × Nowa edycja ChestPvP w piątek o 18:00! | 149/153 | 0 |
-| 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • loofcraft.pl ‣ Wbijaj do gry! Odbieraj nagrody /nagroda | 1/2000 | 0 |
-| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ɴɪᴇᴅᴢɪᴇʟɴʏ ᴇᴠᴇɴᴛ ᴋᴀʀᴀᴏᴋᴇ ᴏ 18:00 (ᴅᴄ.ɪɴᴋᴍᴄ.ᴘʟ) | 166/167 | 0 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SV+GILDIE start PIĄTEK 18:00! | 241/2000 | 113 |
+| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × Nowa edycja ChestPvP w piątek o 18:00! | 153/157 | 0 |
+| 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • loofcraft.pl ‣ Wbijaj do gry! Odbieraj nagrody /nagroda | 0/2000 | 0 |
+| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ɴɪᴇᴅᴢɪᴇʟɴʏ ᴇᴠᴇɴᴛ ᴋᴀʀᴀᴏᴋᴇ ᴏ 18:00 (ᴅᴄ.ɪɴᴋᴍᴄ.ᴘʟ) | 164/165 | 0 |
 | 5 | 	[coincraft.pl](https://mcserwery.pl/serwery/minecraft/85/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 5/1000 | 0 |
 | 6 | 	[CoinCraft.pl](https://mcserwery.pl/serwery/minecraft/114/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 5/1000 | 0 |
 | 7 | 	[mc.tems.pl](https://mcserwery.pl/serwery/minecraft/149/) | ° ∙ ⋆ ∴ MC.TEMS.PL ⚠0⚠ EarthSMP ∴ ⋆ ∙ ° ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴇᴀʀᴛʜsᴍᴘ ∙ WYSTARTOWAŁA | 3/9999 | 0 |
