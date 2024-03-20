@@ -1,7 +1,7 @@
 
 # Serwery EarthSMP
 Serwery Minecraft pobrane z - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-20 22:49
+Ostatnia aktualizacja 2024-03-20 23:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ʙᴏxᴘᴠᴘ ᴡ ᴘɪᴀᴛᴇᴋ ᴏ 18:00! | 640/644 | 0 |
