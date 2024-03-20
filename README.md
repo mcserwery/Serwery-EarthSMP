@@ -1,11 +1,11 @@
 
 # Serwery EarthSMP
 Serwery Minecraft pobrane z - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-20 05:49
+Ostatnia aktualizacja 2024-03-20 06:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SV+GILDIE już WYSTARTOWAŁA! | 290/2000 | 117 |
-| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ʙᴏxᴘᴠᴘ ᴡ ᴘɪᴀᴛᴇᴋ ᴏ 18:00! | 187/191 | 0 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SV+GILDIE już WYSTARTOWAŁA! | 272/2000 | 117 |
+| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ʙᴏxᴘᴠᴘ ᴡ ᴘɪᴀᴛᴇᴋ ᴏ 18:00! | 189/193 | 0 |
 | 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • loofcraft.pl ‣ Wbijaj do gry! Odbieraj nagrody /nagroda | 2/2000 | 0 |
 | 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ɴᴏᴡʏ ᴋᴏᴢᴀᴄᴋɪ sᴇᴢᴏɴ ʟɪғᴇsᴛᴇᴀʟ ᴡ sᴏʙᴏᴛᴇ ᴏ 18:00! | 152/153 | 0 |
 | 5 | 	[coincraft.pl](https://mcserwery.pl/serwery/minecraft/85/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 8/1000 | 0 |
