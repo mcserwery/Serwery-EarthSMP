@@ -1,13 +1,13 @@
 
 # Serwery EarthSMP
 Serwery Minecraft pobrane z - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-24 04:49
+Ostatnia aktualizacja 2024-03-24 05:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ꜱᴛᴀʀᴛ ᴘɪᴀᴛᴇᴋ 18:00! | 370/2000 | 120 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ꜱᴛᴀʀᴛ ᴘɪᴀᴛᴇᴋ 18:00! | 359/2000 | 120 |
 | 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × Bed Wars: Poprawiliśmy dużo błędów, sprawdź! | 162/166 | 0 |
 | 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • loofcraft.pl • Nowa edycja EarthSMP w sobotę o godz. 18.00 | 2/2000 | 0 |
-| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ɴᴏᴡʏ ᴋᴏᴢᴀᴄᴋɪ sᴇᴢᴏɴ ʟɪғᴇsᴛᴇᴀʟ ᴊᴜż ᴡʏsᴛᴀʀᴛᴏᴡᴀʟ! | 196/197 | 0 |
+| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ɴᴏᴡʏ ᴋᴏᴢᴀᴄᴋɪ sᴇᴢᴏɴ ʟɪғᴇsᴛᴇᴀʟ ᴊᴜż ᴡʏsᴛᴀʀᴛᴏᴡᴀʟ! | 195/196 | 0 |
 | 5 | 	[coincraft.pl](https://mcserwery.pl/serwery/minecraft/85/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 5/1000 | 0 |
 | 6 | 	[CoinCraft.pl](https://mcserwery.pl/serwery/minecraft/114/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 5/1000 | 0 |
 | 7 | 	[mc.tems.pl](https://mcserwery.pl/serwery/minecraft/149/) | ° ∙ ⋆ ∴ MC.TEMS.PL ⚠0⚠ EarthSMP ∴ ⋆ ∙ ° ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴇᴀʀᴛʜsᴍᴘ ∙ WYSTARTOWAŁA | 2/9999 | 0 |
