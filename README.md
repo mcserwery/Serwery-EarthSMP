@@ -1,14 +1,14 @@
 
 # Serwery EarthSMP
 Serwery Minecraft pobrane z - https://mcserwery.pl/serwery/minecraft/tryb/Earthsmp
-Ostatnia aktualizacja 2024-03-26 04:49
+Ostatnia aktualizacja 2024-03-26 05:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ᴊᴜᴢ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 321/2000 | 122 |
-| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × PvP: Nowa edycja już w piątek o 18:00! | 128/132 | 0 |
-| 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • loofcraft.pl • Nowa edycja EarthSMP w sobotę o godz. 18.00 | 0/2000 | 0 |
-| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 183/184 | 0 |
-| 5 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 103/2000 | 0 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ᴊᴜᴢ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 310/2000 | 122 |
+| 2 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × PvP: Nowa edycja już w piątek o 18:00! | 173/177 | 0 |
+| 3 | 	[loofcraft.pl](https://mcserwery.pl/serwery/minecraft/13/) | LOOFCRAFT.PL • loofcraft.pl • Nowa edycja EarthSMP w sobotę o godz. 18.00 | 1/2000 | 0 |
+| 4 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 165/166 | 0 |
+| 5 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 95/2000 | 0 |
 | 6 | 	[coincraft.pl](https://mcserwery.pl/serwery/minecraft/85/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 4/1000 | 0 |
 | 7 | 	[CoinCraft.pl](https://mcserwery.pl/serwery/minecraft/114/) | » CoinCraft # Twoj ulubiony serwer (1.16-1.19.2) Najlepszy serwer EarthSMP w POLSCE | 4/1000 | 0 |
 | 8 | 	[mc.tems.pl](https://mcserwery.pl/serwery/minecraft/149/) | ° ∙ ⋆ ∴ MC.TEMS.PL ⚠0⚠ EarthSMP ∴ ⋆ ∙ ° ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴇᴀʀᴛʜsᴍᴘ ∙ WYSTARTOWAŁA | 0/9999 | 0 |
